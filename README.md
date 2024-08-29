@@ -9,7 +9,3 @@
 - current main branch for written updates only will insue new braches based on game/mod uploads.
 - if this is found before any mass uploading, DM me for links to various mod links ive made so far.
 - ALso a pre-thank you to you all, "My Passion is Your Playground!"
-!---
-RiverOfMadness/RiverOfMadness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
